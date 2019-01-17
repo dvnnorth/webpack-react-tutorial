@@ -1,0 +1,12 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-react",
+        "tslint-eslint-rules"
+    ],
+    "rules": {
+        "no-constant-condition": true,
+        "quotemark": [true, "single", "jsx-double"]
+    }
+}
